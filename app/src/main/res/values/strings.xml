@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Section 6 - Showing The Users Location On AMap</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
